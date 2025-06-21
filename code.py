@@ -189,7 +189,7 @@ class ConciseIdentityExtractor:
 def main():
     """Example usage of the concise extractor."""
     # Initialize with your Mistral API key
-    extractor = ConciseIdentityExtractor(mistral_api_key="Os5Djkw6AcqVg9mSkltWsV4JiFbQ7lac")
+    extractor = ConciseIdentityExtractor(mistral_api_key="")
     
     # File paths
     logo_path = "C:/Users/Pavan/Desktop/batman-laptop-ciluigv1xjrqmfgk.jpg"
