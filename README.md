@@ -1,4 +1,4 @@
-#🤖 Multimodal Identity Extractor
+# Multimodal Identity Extractor
 
 A concise Python tool that analyzes logos, PDF documents, and customer personas to extract structured brand identity insights using **LangChain** and **Mistral AI**.
 
